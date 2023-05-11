@@ -1,4 +1,4 @@
-
+-- This is the following code to create a table person in the database bank  in mysql workbench--
 use bank;
 
 show tables;
